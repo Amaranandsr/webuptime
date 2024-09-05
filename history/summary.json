@@ -1,7 +1,7 @@
 [
   {
     "name": "TAI",
-    "url": "https://taindia.in/",
+    "url": "https://taindia.in",
     "icon": "https://icons.duckduckgo.com/ip3/taindia.in.ico",
     "slug": "tai",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1706,
-    "timeDay": 1706,
-    "timeWeek": 1706,
-    "timeMonth": 1706,
-    "timeYear": 1706,
+    "time": 1597,
+    "timeDay": 1597,
+    "timeWeek": 1597,
+    "timeMonth": 1597,
+    "timeYear": 1597,
     "dailyMinutesDown": {}
   }
 ]
