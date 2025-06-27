@@ -1,4 +1,4 @@
-# [📈 Live Status](https://Amaranandsr.github.io/webuptime): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status!](https://Amaranandsr.github.io/webuptime): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [Amar Anand](LeafDeft.com), powered by [Upptime](https://github.com/upptime/upptime).
 
