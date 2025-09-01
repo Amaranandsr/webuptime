@@ -68,19 +68,19 @@
     "url": "https://varanasiadventures.com",
     "icon": "https://icons.duckduckgo.com/ip3/varanasiadventures.com.ico",
     "slug": "water-sports",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.38%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 323,
-    "timeDay": 5018,
-    "timeWeek": 3650,
-    "timeMonth": 1182,
-    "timeYear": 323,
+    "time": 324,
+    "timeDay": 3546,
+    "timeWeek": 3311,
+    "timeMonth": 1165,
+    "timeYear": 324,
     "dailyMinutesDown": {
-      "2025-09-01": 0
+      "2025-09-01": 9
     }
   }
 ]
