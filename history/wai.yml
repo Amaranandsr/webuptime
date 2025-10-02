@@ -1,7 +1,7 @@
 url: https://waiwellness.com
-status: up
-code: 200
-responseTime: 781
-lastUpdated: 2025-10-01T23:16:40.494Z
+status: down
+code: 503
+responseTime: 457
+lastUpdated: 2025-10-02T15:45:17.094Z
 startTime: 2024-09-05T14:17:52.475Z
 generator: Upptime <https://github.com/upptime/upptime>
