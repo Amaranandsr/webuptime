@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.77%",
-    "time": 1408,
-    "timeDay": 1319,
-    "timeWeek": 1160,
-    "timeMonth": 2164,
-    "timeYear": 1230,
+    "time": 1407,
+    "timeDay": 1155,
+    "timeWeek": 1173,
+    "timeMonth": 2167,
+    "timeYear": 1228,
     "dailyMinutesDown": {
       "2026-01-28": 41,
       "2026-01-15": 23,
@@ -23,8 +23,7 @@
       "2025-02-25": 172,
       "2025-02-23": 23,
       "2025-02-18": 38,
-      "2025-02-07": 231,
-      "2025-02-06": 549
+      "2025-02-07": 231
     }
   },
   {
@@ -33,23 +32,22 @@
     "icon": "https://icons.duckduckgo.com/ip3/waiwellness.com.ico",
     "slug": "wai",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.79%",
-    "time": 1148,
-    "timeDay": 986,
-    "timeWeek": 947,
-    "timeMonth": 1452,
-    "timeYear": 994,
+    "time": 1149,
+    "timeDay": 776,
+    "timeWeek": 927,
+    "timeMonth": 1448,
+    "timeYear": 992,
     "dailyMinutesDown": {
       "2026-01-15": 22,
       "2025-11-18": 91,
       "2025-02-25": 170,
       "2025-02-18": 36,
-      "2025-02-07": 231,
-      "2025-02-06": 547
+      "2025-02-07": 231
     }
   },
   {
@@ -63,11 +61,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 326,
-    "timeDay": 789,
-    "timeWeek": 340,
-    "timeMonth": 374,
-    "timeYear": 402,
+    "time": 327,
+    "timeDay": 613,
+    "timeWeek": 357,
+    "timeMonth": 383,
+    "timeYear": 404,
     "dailyMinutesDown": {
       "2026-01-11": 24,
       "2025-11-18": 108
